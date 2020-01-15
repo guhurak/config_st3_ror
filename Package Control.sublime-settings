@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"All Autocomplete",
+		"ayu",
+		"GitGutter",
+		"MarkdownPreview",
+		"Package Control",
+		"ProductiveSnippetsRuby",
+		"Ruby on Rails snippets",
+		"SideBarEnhancements",
+		"TypeScript",
+		"Vue Syntax Highlight",
+		"Vuejs Snippets"
+	]
+}
