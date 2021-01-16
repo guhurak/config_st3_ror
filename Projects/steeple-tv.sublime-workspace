@@ -1,0 +1,838 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"checkL",
+				"checkLangRes\tabc"
+			],
+			[
+				"change",
+				"changeTranslations\t(lang-settings.html)"
+			],
+			[
+				"select",
+				"selected-lang\tabc"
+			],
+			[
+				"getEle",
+				"getElementsByClassName\tmethod"
+			],
+			[
+				"backgrou",
+				"background-color\tproperty"
+			],
+			[
+				"conn",
+				"connectToCable\tabc"
+			],
+			[
+				"check",
+				"checkUuid\tabc"
+			],
+			[
+				"selec",
+				"selected-ssid\tabc"
+			],
+			[
+				"wifi",
+				"wifi-settings.html\t(lang-settings.html)"
+			],
+			[
+				"sele",
+				"selectedLangres\tabc"
+			],
+			[
+				"slee",
+				"selected-lang\tabc"
+			],
+			[
+				"re",
+				"returnValue\twarning"
+			],
+			[
+				"settint",
+				"settingsButtonPresses\tabc"
+			],
+			[
+				"setting",
+				"settingsButtonPresses\tabc"
+			],
+			[
+				"simple",
+				"simple-keyboard\t(index.html)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/guhurak/Documents/tv/steeple-tv/views/index.html",
+			"settings":
+			{
+				"buffer_size": 184,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/guhurak/Documents/tv/steeple-tv/views/settings.html",
+			"settings":
+			{
+				"buffer_size": 57,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/guhurak/Documents/tv/steeple-tv/main.js",
+			"settings":
+			{
+				"buffer_size": 1348,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/guhurak/Documents/tv/steeple-tv/javascript/main/boot-checkup.js",
+			"settings":
+			{
+				"buffer_size": 597,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/guhurak/Documents/tv/steeple-tv/javascript/main/lang.js",
+			"settings":
+			{
+				"buffer_size": 901,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/guhurak/Documents/tv/steeple-tv/javascript/main/network.js",
+			"settings":
+			{
+				"buffer_size": 611,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/guhurak/Documents/tv/steeple-tv/javascript/main/ipc-coms.js",
+			"settings":
+			{
+				"buffer_size": 881,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/guhurak/Documents/tv/steeple-tv/javascript/renderer/wifi-list.js",
+			"settings":
+			{
+				"buffer_size": 701,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/guhurak/Documents/tv/steeple-tv/views/wifi-list.html",
+			"settings":
+			{
+				"buffer_size": 359,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/guhurak/Documents/tv/steeple-tv/javascript/main/uuid.js",
+			"settings":
+			{
+				"buffer_size": 794,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pro",
+				"Project Manager"
+			],
+			[
+				"p",
+				"Project Manager"
+			],
+			[
+				"pr",
+				"Project Manager"
+			],
+			[
+				"proj",
+				"Project Manager"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ayu",
+				"ayu: Activate theme"
+			],
+			[
+				"install",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/guhurak/Documents/tv/steeple-tv",
+		"/home/guhurak/Documents/tv/steeple-tv/javascript",
+		"/home/guhurak/Documents/tv/steeple-tv/javascript/main",
+		"/home/guhurak/Documents/tv/steeple-tv/javascript/renderer",
+		"/home/guhurak/Documents/tv/steeple-tv/locals",
+		"/home/guhurak/Documents/tv/steeple-tv/store",
+		"/home/guhurak/Documents/tv/steeple-tv/stylesheet",
+		"/home/guhurak/Documents/tv/steeple-tv/views"
+	],
+	"file_history":
+	[
+		"/home/guhurak/Documents/tv/steeple-tv/javascript/main/cable.js",
+		"/home/guhurak/Documents/tv/steeple-tv/javascript/renderer/wifi-connect.js",
+		"/home/guhurak/Documents/tv/steeple-tv/javascript/main/network.js",
+		"/home/guhurak/Documents/tv/steeple-tv/javascript/main/configured.js",
+		"/home/guhurak/Documents/tv/steeple-tv/views/lang-settings.html",
+		"/home/guhurak/Documents/tv/steeple-tv/views/wifi-connect.html",
+		"/home/guhurak/Documents/tv/steeple-tv/javascript/renderer/i20n.js",
+		"/home/guhurak/Documents/tv/steeple-tv/javascript/renderer/tv.js",
+		"/home/guhurak/Documents/tv/steeple-tv/locals/en.json",
+		"/home/guhurak/Documents/tv/steeple-tv/locals/fr.json",
+		"/home/guhurak/Documents/tv/steeple-tv/package.json",
+		"/home/guhurak/Documents/tv/steeple-tv/javascript/renderer/commands.js",
+		"/home/guhurak/Documents/tv/steeple-tv/javascript/main/lang.js",
+		"/home/guhurak/Documents/tv/steeple-tv/javascript/main/ipc-coms.js",
+		"/home/guhurak/Documents/tv/steeple-tv/store/lang.json",
+		"/home/guhurak/Documents/tv/steeple-tv/javascript/renderer/wifi-settings.js",
+		"/home/guhurak/Documents/tv/steeple-tv/views/network-settings.html",
+		"/home/guhurak/Documents/tv/steeple-tv/javascript/renderer/preload.js",
+		"/home/guhurak/Documents/tv/steeple-tv/store/configured.json",
+		"/home/guhurak/Documents/tv/steeple-tv/views/index.html",
+		"/home/guhurak/Documents/tv/steeple-tv/.gitignore",
+		"/home/guhurak/Documents/tv/steeple-tv/views/wifi-settings.html",
+		"/home/guhurak/Documents/tv/steeple-tv/javascript/main/uuid.js",
+		"/home/guhurak/Documents/tv/steeple-tv/main.js",
+		"/home/guhurak/Documents/tv/steeple-tv/views/tv.html",
+		"/home/guhurak/Documents/tv/steeple-tv/javascript/index.js",
+		"/home/guhurak/Documents/tv/steeple-tv/store/uuid.json",
+		"/home/guhurak/Documents/tv/steeple-tv/views/test.html",
+		"/home/guhurak/Documents/tv/steeple-tv/javascript/settings_button.js",
+		"/home/guhurak/Documents/tv/steeple-tv/index.js",
+		"/home/guhurak/Documents/tv/steeple-tv/index.html",
+		"/home/guhurak/Documents/tv/steeple-tv/preload.js",
+		"/home/guhurak/Documents/tv/steeple-tv/snap/snapcraft.yaml",
+		"/home/guhurak/Documents/tv/steeple-tv/snap/local/temp_snap.yaml",
+		"/home/guhurak/Documents/back-end/.env",
+		"/home/guhurak/Documents/back-end/docs/Install.md",
+		"/home/guhurak/Documents/back-end/docs/database.md"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"global.lang",
+			"el",
+			"commands",
+			"console",
+			"function",
+			"langName",
+			"error",
+			"returnValue",
+			"checkConfig",
+			"}\n",
+			"error",
+			"'))",
+			"u",
+			"default",
+			"mkdirp",
+			"getDirName",
+			"event",
+			"App",
+			"ws",
+			"closeModal",
+			"externalModal",
+			"`",
+			">\n",
+			"res",
+			"closeAfkModal",
+			"removeTagWithAttr",
+			"removeHtmlByScripts",
+			"removeTagsWithScripts",
+			"launchModalWebviewScripts",
+			"removeScriptsModalFromWebview",
+			"removeTagsWithScripts",
+			"removeHtmlByScripts",
+			"modalContainer",
+			"ModalContainer",
+			"modalContainer",
+			"launchModalWebviewScripts",
+			"ModalWebview",
+			"modalWebview",
+			"closeModalButton",
+			"externalModal",
+			"modalContent",
+			"modalTitle",
+			"mainWebview",
+			"steepleApiUrl",
+			"settingsButtonPresses",
+			"bonjour",
+			"return ",
+			"customScripts",
+			"removeHtmlByScripts",
+			"removeTagsWithScripts"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/guhurak/Documents/tv/steeple-tv/views/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 184,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								114,
+								114
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/guhurak/Documents/tv/steeple-tv/views/settings.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 57,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								52,
+								52
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"open_with_edit": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/guhurak/Documents/tv/steeple-tv/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1348,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								636,
+								636
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/guhurak/Documents/tv/steeple-tv/javascript/main/boot-checkup.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 597,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								597,
+								597
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "/home/guhurak/Documents/tv/steeple-tv/javascript/main/lang.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 901,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								178,
+								178
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/guhurak/Documents/tv/steeple-tv/javascript/main/network.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 611,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								607,
+								607
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/home/guhurak/Documents/tv/steeple-tv/javascript/main/ipc-coms.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 881,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								309,
+								309
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/home/guhurak/Documents/tv/steeple-tv/javascript/renderer/wifi-list.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 701,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								701,
+								701
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/home/guhurak/Documents/tv/steeple-tv/views/wifi-list.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 359,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								267,
+								267
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/home/guhurak/Documents/tv/steeple-tv/javascript/main/uuid.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 794,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								651,
+								651
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 47.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "steeple-tv.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"datab",
+				"docs/database.md"
+			],
+			[
+				"image_service",
+				"app/services/image_service.rb"
+			],
+			[
+				"image_syst",
+				"app/jobs/temporary/image_system_update_job.rb"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"install",
+				"docs/Install.md"
+			],
+			[
+				"databa",
+				"docs/database.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 285.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

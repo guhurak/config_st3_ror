@@ -1,5 +1,6 @@
 {
 	"auto_complete_commit_on_tab": true,
+	"close_windows_when_empty": false,
 	"color_scheme": "Packages/ayu/ayu-mirage.sublime-color-scheme",
 	"ensure_newline_at_eof_on_save": true,
 	"folder_exclude_patterns":
@@ -13,6 +14,7 @@
 		"Vintage"
 	],
 	"shift_tab_unindent": true,
+	"show_definitions": false,
 	"tab_size": 2,
 	"theme": "ayu-mirage.sublime-theme",
 	"translate_tabs_to_spaces": true,
